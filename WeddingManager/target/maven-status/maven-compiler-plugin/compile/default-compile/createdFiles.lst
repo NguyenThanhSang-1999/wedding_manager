@@ -1,6 +1,8 @@
-com\nts\weddingmanager\QuanLySanPham.class
-com\nts\weddingmanager\SanPham.class
-com\nts\weddingmanager\ThucUong.class
-com\nts\weddingmanager\Sanh.class
-com\nts\weddingmanager\ThucAn.class
-com\nts\weddingmanager\Test.class
+weddingmanager\GiaSanh.class
+weddingmanager\Test.class
+weddingmanager\QuanLySanh.class
+weddingmanager\ThucUong.class
+weddingmanager\Sanh.class
+weddingmanager\ThucAn.class
+weddingmanager\QuanLySanPham.class
+weddingmanager\SanPham.class
